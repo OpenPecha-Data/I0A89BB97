@@ -1,7 +1,7 @@
 id: P000369
 initial_creation_type: ocr
 created_at: 17/03/2020
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-16 15:36:25.964361
 source_metadata:
   id: bdr:W1AC309
   title: 'སྒམ་པོའི་གདན་རབས་རིམ་བྱོན་གྱི་གསུང་འབུམ། '
@@ -121,3 +121,5 @@ source_metadata:
       volume_number: 19
       total_pages: 410
       base_file: v019.txt
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
