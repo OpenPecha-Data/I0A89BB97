@@ -1,125 +1,135 @@
-id: P000369
+id: I0A89BB97
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
-created_at: 17/03/2020
-last_modified_at: 2021-12-16 15:36:25.964361
+imported: '2020-03-17T08:40:12+00:00'
+last_modified: '2022-06-10T05:04:05.938367+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
 source_metadata:
   id: bdr:W1AC309
   title: 'སྒམ་པོའི་གདན་རབས་རིམ་བྱོན་གྱི་གསུང་འབུམ། '
   author: ''
-  volumes:
-    d325b93629994ab7aee658705ca7a0ae:
-      image_group_id: I4PD2738
-      title: Volume 1 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
-      volume_number: 1
-      total_pages: 354
-      base_file: v001.txt
-    5171026c5b0545b29cd107d10d001984:
-      image_group_id: I4PD2739
-      title: Volume 2 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
-      volume_number: 2
-      total_pages: 382
-      base_file: v002.txt
-    4c7a67e371df4ad1b73a53d7d195d7d4:
-      image_group_id: I4PD2740
-      title: Volume 3 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
-      volume_number: 3
-      total_pages: 338
-      base_file: v003.txt
-    744d8bac93ad410dbafa6aeccc4e7c0d:
-      image_group_id: I4PD2741
-      title: Volume 4 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
-      volume_number: 4
-      total_pages: 338
-      base_file: v004.txt
-    e898c8e2b267492b9ac7dc46388515ae:
-      image_group_id: I4PD2742
-      title: Volume 5 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
-      volume_number: 5
-      total_pages: 474
-      base_file: v005.txt
-    24abb84414f3485caff7e44a1d5ed361:
-      image_group_id: I4PD2743
-      title: Volume 6 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
-      volume_number: 6
-      total_pages: 350
-      base_file: v006.txt
-    4e8cddf7504348fd8b4d2ff9de1cfd4d:
-      image_group_id: I4PD2744
-      title: Volume 7 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
-      volume_number: 7
-      total_pages: 314
-      base_file: v007.txt
-    bebd4a4c69c845188b14c02818cc5ee5:
-      image_group_id: I4PD2745
-      title: Volume 8 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
-      volume_number: 8
-      total_pages: 506
-      base_file: v008.txt
-    633f5471bdac4dc78eb716d31f097366:
-      image_group_id: I4PD2746
-      title: Volume 9 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
-      volume_number: 9
-      total_pages: 294
-      base_file: v009.txt
-    5ca5d73d81cd4b34895b9eef42f68930:
-      image_group_id: I4PD2747
-      title: Volume 10 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
-      volume_number: 10
-      total_pages: 336
-      base_file: v010.txt
-    5c591210da4942ce864d7eed596ad057:
-      image_group_id: I4PD2748
-      title: Volume 11 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
-      volume_number: 11
-      total_pages: 372
-      base_file: v011.txt
-    14649e9730574c65b0f9fc1487ee4e4b:
-      image_group_id: I4PD2749
-      title: Volume 12 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
-      volume_number: 12
-      total_pages: 350
-      base_file: v012.txt
-    1aef902cf55b42c4bf1078800187532c:
-      image_group_id: I4PD2750
-      title: Volume 13 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
-      volume_number: 13
-      total_pages: 340
-      base_file: v013.txt
-    a44c0e8f4a6044f88eaa4757c5d685e4:
-      image_group_id: I4PD2751
-      title: Volume 14 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
-      volume_number: 14
-      total_pages: 452
-      base_file: v014.txt
-    700ddc38fa8b4de29081d6a1602c06a6:
-      image_group_id: I4PD2752
-      title: Volume 15 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
-      volume_number: 15
-      total_pages: 374
-      base_file: v015.txt
-    8456c0e01b3248c698d4852da3b7b60f:
-      image_group_id: I4PD2753
-      title: Volume 16 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
-      volume_number: 16
-      total_pages: 366
-      base_file: v016.txt
-    1091e0aec16e4b0289ec0fe8a79b0517:
-      image_group_id: I4PD2754
-      title: Volume 17 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
-      volume_number: 17
-      total_pages: 346
-      base_file: v017.txt
-    6996d09338844b6daa32ee3b0b64e108:
-      image_group_id: I4PD2755
-      title: Volume 18 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
-      volume_number: 18
-      total_pages: 382
-      base_file: v018.txt
-    7f5f9ec7933340e5913a4ab5121e64aa:
-      image_group_id: I4PD2756
-      title: Volume 19 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
-      volume_number: 19
-      total_pages: 410
-      base_file: v019.txt
   access: http://purl.bdrc.io/admindata/AccessOpen
   restrictedInChina: true
+  base:
+    D42D:
+      image_group_id: I4PD2738
+      title: Volume 1 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
+      total_pages: 354
+      order: 1
+      base_file: D42D.txt
+    1E34:
+      image_group_id: I4PD2739
+      title: Volume 2 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
+      total_pages: 382
+      order: 2
+      base_file: 1E34.txt
+    '3806':
+      image_group_id: I4PD2740
+      title: Volume 3 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
+      total_pages: 338
+      order: 3
+      base_file: 3806.txt
+    7DDA:
+      image_group_id: I4PD2741
+      title: Volume 4 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
+      total_pages: 338
+      order: 4
+      base_file: 7DDA.txt
+    E519:
+      image_group_id: I4PD2742
+      title: Volume 5 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
+      total_pages: 474
+      order: 5
+      base_file: E519.txt
+    '7416':
+      image_group_id: I4PD2743
+      title: Volume 6 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
+      total_pages: 350
+      order: 6
+      base_file: 7416.txt
+    D038:
+      image_group_id: I4PD2744
+      title: Volume 7 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
+      total_pages: 314
+      order: 7
+      base_file: D038.txt
+    '9035':
+      image_group_id: I4PD2745
+      title: Volume 8 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
+      total_pages: 506
+      order: 8
+      base_file: 9035.txt
+    C68C:
+      image_group_id: I4PD2746
+      title: Volume 9 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
+      total_pages: 294
+      order: 9
+      base_file: C68C.txt
+    '6671':
+      image_group_id: I4PD2747
+      title: Volume 10 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
+      total_pages: 336
+      order: 10
+      base_file: 6671.txt
+    '2200':
+      image_group_id: I4PD2748
+      title: Volume 11 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
+      total_pages: 372
+      order: 11
+      base_file: 2200.txt
+    AE6D:
+      image_group_id: I4PD2749
+      title: Volume 12 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
+      total_pages: 350
+      order: 12
+      base_file: AE6D.txt
+    4CFB:
+      image_group_id: I4PD2750
+      title: Volume 13 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
+      total_pages: 340
+      order: 13
+      base_file: 4CFB.txt
+    0818:
+      image_group_id: I4PD2751
+      title: Volume 14 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
+      total_pages: 452
+      order: 14
+      base_file: 0818.txt
+    '4705':
+      image_group_id: I4PD2752
+      title: Volume 15 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
+      total_pages: 374
+      order: 15
+      base_file: 4705.txt
+    46FD:
+      image_group_id: I4PD2753
+      title: Volume 16 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
+      total_pages: 366
+      order: 16
+      base_file: 46FD.txt
+    8A62:
+      image_group_id: I4PD2754
+      title: Volume 17 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
+      total_pages: 346
+      order: 17
+      base_file: 8A62.txt
+    54E4:
+      image_group_id: I4PD2755
+      title: Volume 18 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
+      total_pages: 382
+      order: 18
+      base_file: 54E4.txt
+    E8A8:
+      image_group_id: I4PD2756
+      title: Volume 19 of sgam po'i gdan rabs rim byon gyi gsung 'bum/
+      total_pages: 410
+      order: 19
+      base_file: E8A8.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
